@@ -1,6 +1,7 @@
 invnorm
 =======
 [![Build Status](https://travis-ci.org/ghais/invnorm.png?branch=master)](https://travis-ci.org/ghais/invnorm)
+[![Coverage Status](https://coveralls.io/repos/ghais/invnorm/badge.png)](https://coveralls.io/r/ghais/invnorm)
 
 Compute the inverse normal cumulative distribution function
 
